@@ -13,6 +13,7 @@
 	- [Issues](#issues)
 		- [Issues driven developpement (IDD)](#issues-driven-developpement-idd)
 	- [Templates for issues and pull requests](#templates-for-issues-and-pull-requests)
+	- [Other ressources](#other-ressources)
 
 
 ## Covering the basics
@@ -29,6 +30,7 @@ How to isolate work, collaborate safely, and review code changes.
 ### Why do we even need branches ?
 
 - [An explanation here [EN]](https://blog.while-true-do.io/git-next-steps/)
+- [Use good branches names](https://conventional-branch.github.io/)
 
 ### Why are pull requests and code reviews useful ? 
 
@@ -80,3 +82,7 @@ Organize work around tracked tasks for clarity and accountability.
 - [Issues](templates/issue-template.md)
 - [Pull Request](templates/issue-template.md)
 - [Set templates in your github repo](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+
+## Other ressources
+
+- [Conventionnal commits](https://www.conventionalcommits.org/en/v1.0.0/)
