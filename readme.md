@@ -20,8 +20,8 @@
 
 Foundational Git concepts.
 
-- [Git Workshop](assets/Atelier%20Git%20-%2008.11.2024.pdf) by [scros](https://github.com/SimonCROS) & [sponthus](https://github.com/sponthus)
-- [Memos](assets/Fiche%20memo%20Git%20-%2008.11.2024.pdf) by [scros](https://github.com/SimonCROS) & [sponthus](https://github.com/sponthus)
+- [Git Workshop](assets/Atelier%20Git%20-%2008.11.2024.pdf) by [scros](https://github.com/SimonCROS), [ibertran](https://github.com/ibtrd) & [sponthus](https://github.com/sponthus)
+- [Memos](assets/Fiche%20memo%20Git%20-%2008.11.2024.pdf) by [scros](https://github.com/SimonCROS), [ibertran](https://github.com/ibtrd) & [sponthus](https://github.com/sponthus)
 
 ## Branching, merging and pull requests
 
